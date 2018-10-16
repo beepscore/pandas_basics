@@ -10,11 +10,15 @@ https://pandas.pydata.org/
 
 https://pandas.pydata.org/pandas-docs/stable/index.html
 
-### 10 Minutes to pandas
+## 10 Minutes to pandas
 https://pandas.pydata.org/pandas-docs/stable/10min.html
+
+## 10-minute tour of pandas by Wes McKinney
+https://vimeo.com/59324550
+
+## DataSchool
+https://www.youtube.com/user/dataschool
 
 ## Sentdex Data Analysis with Python and Pandas Tutorial Introduction
 https://youtu.be/Iqjy9UqKKuo
 
-## DataSchool
-https://www.youtube.com/user/dataschool
