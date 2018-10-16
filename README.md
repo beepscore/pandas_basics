@@ -1,7 +1,5 @@
 # Purpose
-Show Pandas Series and DataFrame basic indexing and operations.
-
-# Results
+Show Pandas Series and DataFrame basics selection and operations.
 
 # References
 
@@ -14,3 +12,9 @@ https://pandas.pydata.org/pandas-docs/stable/index.html
 
 ### 10 Minutes to pandas
 https://pandas.pydata.org/pandas-docs/stable/10min.html
+
+## Sentdex Data Analysis with Python and Pandas Tutorial Introduction
+https://youtu.be/Iqjy9UqKKuo
+
+## DataSchool
+https://www.youtube.com/user/dataschool
