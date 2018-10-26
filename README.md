@@ -22,3 +22,6 @@ https://www.youtube.com/user/dataschool
 ## Sentdex Data Analysis with Python and Pandas Tutorial Introduction
 https://youtu.be/Iqjy9UqKKuo
 
+## Modern Pandas (Part 1)
+https://tomaugspurger.github.io/modern-1-intro.html
+
